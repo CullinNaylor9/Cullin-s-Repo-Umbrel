@@ -15,6 +15,8 @@ support: https://github.com/AdguardTeam/AdguardHome/issues
 port: 8084
 gallery:
   - https://github.com/calibrain/calibre-web-automated-book-downloader/raw/main/README_images/search.png
+  - https://github.com/calibrain/calibre-web-automated-book-downloader/raw/main/README_images/details.png
+  - https://github.com/calibrain/calibre-web-automated-book-downloader/raw/main/README_images/downloading.png
 path: ""
 defaultPassword: ""
 releaseNotes: >
