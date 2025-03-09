@@ -1,3 +1,4 @@
+version: "3.7"
 # If you change the FLASK_PORT, do not forget to change it in ports and healthcheck as well.
 services:
   calibre-web-automated-book-downloader:
