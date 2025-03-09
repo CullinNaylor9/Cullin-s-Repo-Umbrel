@@ -1,23 +1,23 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+id: calibre-web-automated-book-downloader
+name: Calibre Ebook Downloader
+tagline: An intuitive web interface for searching and requesting book downloads.
+icon: https://github.com/calibrain/calibre-web-automated-book-downloader/raw/main/static/media/logo.png
 category: Development
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
+  An intuitive web interface for searching and requesting book downloads, designed to work seamlessly with Calibre-Web-Automated. This project streamlines the process of downloading books and preparing them for integration into your Calibre library.
 
 
   You can also add newlines!
 
-developer: Umbrel
+developer: calibrain
 website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submitter: calibrain
+submission: https://github.com/calibrain/calibre-web-automated-book-downloader/
+repo: https://github.com/calibrain/calibre-web-automated-book-downloader/
+support: https://github.com/calibrain/calibre-web-automated-book-downloader/
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
